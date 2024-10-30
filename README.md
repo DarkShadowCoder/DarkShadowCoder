@@ -8,11 +8,11 @@
 </p>
 <p align="center">
 <em>
-    Je suis <b> Mbohou yvan</b>, étudiant en Cinquième année <b> d'Ingénierie Logiciel </b> à l'<a href="https://www.bing.com/ck/a?!&&p=c408dc4e78f28f0aJmltdHM9MTY5MTAyMDgwMCZpZ3VpZD0wYzkyMDI1OC1hOGUwLTY4NTMtMGRiZi0xMTBmYTkzOTY5ZmQmaW5zaWQ9NTE3Mg&ptn=3&hsh=3&fclid=0c920258-a8e0-6853-0dbf-110fa93969fd&psq=Ecolde+nationale+Superieure+Polytechnique+de+Douala&u=a1aHR0cHM6Ly9lbnNwZC11ZG8uY20v&ntb=1"> <b>Ecole Nationale Superieure Polytechnique de Douala</b></a>.
+    Je suis <b> Mbohou yvan</b>, étudiant en Cinquième année <b> d'Ingénierie Logiciel </b> à l'<a href="https://www.bing.com/ck/a?!&&p=c408dc4e78f28f0aJmltdHM9MTY5MTAyMDgwMCZpZ3VpZD0wYzkyMDI1OC1hOGUwLTY4NTMtMGRiZi0xMTBmYTkzOTY5ZmQmaW5zaWQ9NTE3Mg&ptn=3&hsh=3&fclid=0c920258-a8e0-6853-0dbf-110fa93969fd&psq=Ecole+Nationale+Superieure+Polytechnique+de+Douala&u=a1aHR0cHM6Ly9lbnNwZC11ZG8uY20v&ntb=1"> <b>Ecole Nationale Superieure Polytechnique de Douala</b></a>.
     J'aspire à devenir un <b>Ingenieur logiciel,</b>&nbsp; <b>un programmeur compétitif</b>&nbsp; et un <b>spécialiste dans le domaine de  l'Intelligence Artificielle</b> 
   <br>
   
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+  <b style=""><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
 <h3>Quelques petits choses me concernant 🧑</h3>
