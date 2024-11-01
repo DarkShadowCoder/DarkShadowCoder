@@ -52,7 +52,7 @@
 
 <p>
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadowCoder&theme=nightowl&hide_border=true&fire=DD2727" alt="DarkShadow" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="BlackShadow" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&show_icons=true&locale=en&layout=compact&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="DarkShadowCoder" />
 </p>
 
 <summary>:trophy: Github Profile Trophy</summary>
