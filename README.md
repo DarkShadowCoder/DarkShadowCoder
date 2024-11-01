@@ -50,16 +50,29 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarkhadowCoder&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /></p>
 
+<div align="center" width="100%">
 <p>
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadowCoder&theme=nightowl&hide_border=true&fire=DD2727" alt="DarkShadow" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&show_icons=true&locale=en&layout=compact&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="DarkShadowCoder" />
+  <img width="49%" height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadowCoder&theme=monokai&hide_border=true&fire=DD2727" alt="DarkShadow" />
+  <img width="49%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&show_icons=true&locale=en&layout=compact&color=0e75b6&style=flat&theme=monokai&hide_border=true" alt="DarkShadowCoder" />
 </p>
 
+<p>
+  <img width="49%" height="200px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkShadowCoder&theme=monokai"  alt="DarkShadowCoder" />
+  <img width="49%" height="200px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkShadowCoder&theme=monokai" height="180em" alt="DarkShadowCoder" />
+</p>
+<br/>
+<p>
+  <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkShadowCoder&theme=monokai"  alt="DarkShadowCoder" />
+</p>
+</div>
+<br/>
+</p>
+
+<br />
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="DarkShadowCoder">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder&color=0e75b6&style=flat&theme=monokai&&row=1&no-frame=true" alt="DarkShadowCoder">
 <summary>Github Stats</summary>
-<p>
-  [![tushar104's GitHub stats](https://stats.quine.sh/tushar104/github)](https://stats.quine.sh/tushar104/github)
-</p>
+
+[![DarkShadowCoder's GitHub stats](https://stats.quine.sh/DarkShadowCoder/github)](https://stats.quine.sh/DarkShadowCoder/github)
 
