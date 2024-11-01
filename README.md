@@ -59,5 +59,7 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="DarkShadowCoder">
 <summary>Github Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkShadowCoder&show_icons=true&locale=fr&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="DarkShadowCoder" /></p>
+<p>
+  [![tushar104's GitHub stats](https://stats.quine.sh/tushar104/github)](https://stats.quine.sh/tushar104/github)
+</p>
 
