@@ -52,8 +52,8 @@
 
 <div align="center" width="100%">
 <p>
-  <img width="49%" height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadowCoder&theme=monokai&hide_border=true&fire=DD2727" alt="DarkShadow" />
-  <img width="49%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&show_icons=true&locale=en&layout=compact&color=0e75b6&style=flat&theme=monokai&hide_border=true" alt="DarkShadowCoder" />
+  <img width="100%" height="250px"  src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadowCoder&theme=monokai&hide_border=true&fire=DD2727" alt="DarkShadow" />
+  <img width="100%" height="250px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkShadowCoder&show_icons=true&locale=en&layout=compact&color=0e75b6&style=flat&theme=monokai&hide_border=true" alt="DarkShadowCoder" />
 </p>
 
 <p>
