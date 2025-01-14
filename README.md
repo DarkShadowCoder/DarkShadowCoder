@@ -48,7 +48,7 @@
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code> 
 </details>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DarkhadowCoder&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DarkshadowCoder&label=Profile%20views&color=0e75b6&style=flat" alt="BlackShadow" /></p>
 
 <div align="center" width="100%">
 <p>
