@@ -4,7 +4,7 @@
 
 <h1 align="center">Salut <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Moi c'est Blackdot</h1>
 <p align="center">
-  <a href="https://github.com/DarkShadowCoder/DarkShadowCoder"><img src="https://readme-typing-svg.herokuapp.com?lines=Etudiant+en+Genie+Logiciel;Developpeur+Web+Full+Stack;Aspirant%20|%20AI%20|%20ML%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DarkShadowCoder/DarkShadowCoder"><img src="https://readme-typing-svg.herokuapp.com?lines=Etudiant+en+Genie+Logiciel;Developpeur+Web+Full+Stack;Developpeur mobile;Aspirant%20|%20AI%20|%20ML%20&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
 <em>
