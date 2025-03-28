@@ -74,5 +74,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DarkShadowCoder&color=0e75b6&style=flat&theme=monokai&&row=1&no-frame=true" alt="DarkShadowCoder">
 <summary>Github Stats</summary>
 
-[![DarkShadowCoder's GitHub stats](https://stats.quine.sh/DarkShadowCoder/github)](https://stats.quine.sh/DarkShadowCoder/github)
-
